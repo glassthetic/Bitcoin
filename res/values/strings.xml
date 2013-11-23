@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bitcoin</string>
+    <string name="voice_trigger">Bitcoin value</string>
+</resources>
